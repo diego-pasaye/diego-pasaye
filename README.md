@@ -1,5 +1,5 @@
 >[!note]
-> I don't actually use GitHub as my personal git database provider. I use (GitLab)[https://gitlab.com/diegopasaye] and (Tangled)[https://tangled.org/diegopasaye.com].
+> I don't actually use GitHub as my personal git database provider. I use [GitLab](https://gitlab.com/diegopasaye) and [Tangled](https://tangled.org/diegopasaye.com).
 
 
 # About Me
