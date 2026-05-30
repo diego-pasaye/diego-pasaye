@@ -1,6 +1,7 @@
 >[!note]
-> I don't actually use GitHub as my git database provider. I use [GitLab](https://gitlab.com/diegopasaye) and [Tangled](https://tangled.org/diegopasaye.com).
-> I only use it for collaborative projects.
+> I don't use GitHub as my git server provider. I use [Tangled](https://tangled.org/diegopasaye.com) and I [Host my own][https://git.diegopasaye.com].
+>
+> I only use GitHub for collaborative projects.
 
 Robotics Engineer. I enjoy my freedom. 
 
